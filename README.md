@@ -1,4 +1,5 @@
 Save-Manager
 ============
 
-A Manager class for saving and loading in Objective C
+Simple Manager for saving and loading user created objects in Xcode.
+All Saved objects must be NSCoding compliant. 
